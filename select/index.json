@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "충돌 Collision",
+  "base_artist": "Stray Kids",
+  "createdAt": "2026-03-18T07:30:36.890978Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Collision (충돌)",
+      "artist": "Stray Kids (스트레이 키즈)",
+      "has_synced": true,
+      "path": "select/01_Collision_(충돌)_Stray_Kids_(스트레이_키즈).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "충돌 Collision",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/02_충돌_Collision_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "충돌 (Collision)",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/03_충돌_(Collision)_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "충돌 Collision",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/04_충돌_Collision_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "충돌 (Collision)",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/05_충돌_(Collision)_Stray_Kids.lrc"
+    }
+  ]
+}
